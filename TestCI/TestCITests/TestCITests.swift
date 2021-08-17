@@ -23,7 +23,7 @@ class TestCITests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
         let a = 1
-        let b = 1
+        let b = 3
         XCTAssert(a==b)
     }
 
